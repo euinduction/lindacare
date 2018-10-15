@@ -2,7 +2,7 @@
 
 Trade Process is a spring boot application.
 
-You can import the application in any IDE and start it as spring boot application.
+You can download the TradeProcess.zip and import the application in any IDE and start it as spring boot application.
 The application will run on default port 8080.
 
 To Post the data use below URL
